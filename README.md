@@ -14,8 +14,8 @@ _ Acknowledgements
 ## Overview
 The goal of this project was to create a neural network capable of accurately classifying images into one of the ten categories provided in the Fashion MNIST dataset. The project involved the following steps:
 
-_Loading and inspecting the dataset.
-_Normalizing the image data.
+_ Loading and inspecting the dataset.
+_ Normalizing the image data.
 _Defining the neural network model.
 _Training the model with validation and early stopping.
 _Evaluating the model's performance.
